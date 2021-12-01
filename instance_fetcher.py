@@ -4,8 +4,8 @@ from dacite import from_dict
 from typing import List, Dict, Optional
 import boto3
 
-AWS_ACCESS_KEY_ID = "AKIA5OTURWZJO5J4PSPB"
-AWS_SECRET_ACCESS_KEY = "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"
+AWS_ACCESS_KEY_ID = ""
+AWS_SECRET_ACCESS_KEY = ""
 AWS_DEFAULT_REGION = "us-east-2"
 
 AWS_DESCRIBE_REGIONS_RESPONSE_REGION_NAME_KEY_STR = 'RegionName'
